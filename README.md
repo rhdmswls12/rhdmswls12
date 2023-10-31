@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Eunjin's%20Github&&animation=twinkling&fontSize=45)
 <!--
 **rhdmswls12/rhdmswls12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
